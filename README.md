@@ -21,3 +21,4 @@ A responsive, high-performance sales analytics dashboard built with vanilla HTML
 
 ## Getting Started
 Open `index.html` in any modern web browser. No installation or build steps required.
+
